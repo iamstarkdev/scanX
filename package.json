@@ -4,7 +4,7 @@
     "expo-barcode-scanner": "~10.1.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
+    "react-native": "0.64.0",
     "react-native-screens": "~3.0.0",
     "react-native-web": "~0.13.12"
   },
