@@ -4,7 +4,7 @@
     "expo-barcode-scanner": "~10.1.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-native": "0.64.0",
+    "react-native": "0.70.1",
     "react-native-screens": "~3.0.0",
     "react-native-web": "~0.13.12"
   },
