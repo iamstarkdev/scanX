@@ -1,12 +1,12 @@
 {
   "dependencies": {
     "expo": "~41.0.0",
-    "expo-barcode-scanner": "~10.1.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-native": "0.64.0",
-    "react-native-screens": "~3.0.0",
-    "react-native-web": "~0.13.12"
+    "expo-barcode-scanner": "~10.2.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-native": "0.75.1",
+    "react-native-screens": "~3.34.0",
+    "react-native-web": "~0.19.12"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
